@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+
+  border-radius: 10px;
+}
+.popContainer {
+  background-color: #ffffff;
+  height: 500px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.close {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}
+
+.closeContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.thumbnailUrl {
+  height: 200px;
+  width: 280px;
+}
+.videoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.listItem {
+  list-style-type: none;
+}

@@ -1,0 +1,21 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+
+.firstContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.head {
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 26px;
+  padding: 20px;
+}
+.primeVideo {
+  height: 300px;
+  width: 100vw;
+}
